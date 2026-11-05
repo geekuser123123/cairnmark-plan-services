@@ -14,7 +14,7 @@
 export default {
   site: {
     url: 'https://cairnmark-plan-services.netlify.app', // no trailing slash
-    googleSiteVerification: null, // Search Console HTML-tag "content" value
+    googleSiteVerification: 'lrUx7kn5s9WRhLH382OcaJML2OkFgZV5t9DhDkxeYJw', // Search Console HTML-tag "content" value
     locale: 'en_US',
     language: 'en-US',
   },
